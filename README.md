@@ -6,10 +6,10 @@ Glad to see you!!
 # ![Profile views](https://gpvc.arturio.dev/Grumppie)
 
 # <img src="./Images/mona-whisper.gif" height="30" />About me
-⭐ Currently persuing Computer Science from D.Y. Patil College of Engineering 🏫\
-⭐ Love to build full stack applications 📱\
-⭐ Love to teach and help people 🤝\
-⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" />
+---
+|<div>⭐ Currently persuing Computer Science from D.Y. Patil College of Engineering 🏫<br />⭐ Love to build full stack applications 📱<br />⭐ Love to teach and help people 🤝<br />⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" /></div>|<div><img src="Images/coding gif.gif" /></div>
+|--|--|
+---
 
 # Favourite Languages
 <p align="center">
@@ -37,7 +37,7 @@ Glad to see you!!
  </p>
 
 # 📈 My Github Stats
---- 
+---
 |<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grumppie&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" >|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grumppie&layout=compact&theme=midnight-purple)](https://github.com/Grumppie)
 |--|--|
 ---

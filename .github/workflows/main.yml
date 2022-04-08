@@ -14,3 +14,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: Platane/snk@v1.1.0
+        with:
+          github_user_name: ${{ github.Grumppie}}
+          
+          gif_out_path: dist/github-snake.gif
+
+          svg_out_path: dist/github-snake.svg

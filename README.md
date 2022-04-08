@@ -5,7 +5,7 @@
 
 # ![Profile views](https://gpvc.arturio.dev/Grumppie)
 
-# <img src="./Images/mona-whisper.gif" height="30" />About me
+# <img src="./Images/mona-whisper.gif" height="40" />About me
 ---
 |<div align="left" >⭐ Currently persuing Computer Science from D.Y. Patil College of Engineering 🏫<br />⭐ Love to build full stack applications 📱<br />⭐ Love to teach and help people 🤝<br />⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" /></div>|<div><img src="Images/coding gif.gif" /></div>
 |--|--|

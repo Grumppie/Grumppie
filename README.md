@@ -4,7 +4,7 @@ I'm a full stack developer 💻\
 Glad to see you!!\
 ![Profile views](https://gpvc.arturio.dev/Grumppie)
 
-About me<img src="./images/mona-whisper.gif" height="20" />\
+About me<img src="./Images/mona-whisper.gif" height="20" />\
 ⭐ Currently persuing Computer Science from D.Y. Patil College of Engineering 🏫\
 ⭐ Love to build full stack applications 📱\
 ⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" />\

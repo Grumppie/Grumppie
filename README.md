@@ -1,7 +1,8 @@
 
 # ![](https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif)[Sarthak Pawar](https://github.com/Grumppie) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a full stack developer 💻\
-Glad to see you!!\
+Glad to see you!!
+
 ![Profile views](https://gpvc.arturio.dev/Grumppie)
 
 <img src="./Images/mona-whisper.gif" height="30" />About me\

@@ -3,7 +3,7 @@
 ## I'm a full stack developer 💻
 ## Glad to see you!!
 
-# ![Profile views](https://gpvc.arturio.dev/Grumppie)
+![Profile views](https://gpvc.arturio.dev/Grumppie)
 
 # <img src="./Images/mona-whisper.gif" height="40" />About me
 ---

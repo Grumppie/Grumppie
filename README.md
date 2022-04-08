@@ -32,12 +32,10 @@ Glad to see you!!
  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-
 # 📈 My Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grumppie&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grumppie&layout=compact&theme=midnight-purple)](https://github.com/Grumppie)
-<!--START_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grumppie&layout=compact&theme=midnight-purple)](https://github.com/Grumppie)><!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## Snake gif 
 ![snake gif](https://github.com/Grumppie/Grumppie/blob/output/github-contribution-grid-snake.gif)

@@ -43,4 +43,4 @@ Glad to see you!!
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## Snake gif 
-![snake gif](https://github.com/Grumppie/Grumppie/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Grumppie/Grumppie/blob/output/github-contribution-grid-snake.svg)

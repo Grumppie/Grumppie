@@ -8,8 +8,9 @@ Glad to see you!!
 <img src="./Images/mona-whisper.gif" height="30" />About me\
 ⭐ Currently persuing Computer Science from D.Y. Patil College of Engineering 🏫\
 ⭐ Love to build full stack applications 📱\
-⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" />\
-⭐ Love to teach and help out people 🤝
+⭐ Love to teach and help out people 🤝\
+⭐ Love to read manga 📚 and watch anime<img src="./Images/goku.png" height="20" />
+
 
 
 📈 My Github Stats\
